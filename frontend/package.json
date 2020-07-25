@@ -9,6 +9,11 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "d3": "^5.16.0",
+    "less": "^3.12.2",
+    "less-loader": "^6.2.0",
+    "sass": "^1.26.10",
+    "sass-loader": "^9.0.2",
     "vue": "^2.6.11"
   },
   "devDependencies": {
